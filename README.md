@@ -1,2 +1,2 @@
 # Programming_Finance
-Class notes for Inovação e Tec. em Serviços Financeiros - Programação para Finanças - IBMEC
+Class notes for Programação para Finanças - Inovação e Tec. em Serviços Financeiros - IBMEC
